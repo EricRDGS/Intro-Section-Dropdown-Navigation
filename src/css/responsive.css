@@ -1,0 +1,99 @@
+@media(max-width: 510px){
+    .header-container{
+        position: relative;
+        justify-content: space-between;
+    }
+
+    .header-container #bars{
+        display: inline-block;
+        position: absolute;
+        right: 5%;
+        font-size: 1.7rem;
+        z-index: 2;
+        color: var(--almost-black);
+    }
+
+    .header-container #bars:hover{
+        cursor: pointer;
+    }
+
+    .fa-x{
+        transform: rotate(90deg);
+    }
+
+    .header-container .navigation{
+        flex-direction: column;
+        background-color: #fff;
+        position: absolute;
+        justify-content: flex-start;
+        z-index: 1;
+        width: 250px;
+        height: 100vh;
+        top: 0;   
+        right: 0;
+        padding: 4rem 0;
+    }
+
+    .header-container .navigation.to-hold{
+        display: none;
+    }
+
+    .header-container .navigation .menu{
+        flex-direction: column;
+        gap: 1rem;
+        margin: 0 2rem;
+    }
+
+    .header-container .navigation .menu .features ul, .header-container .navigation .menu .company ul{
+        position: inherit;
+        left: 0;
+        padding: 0 1rem;
+    }
+
+    .header-container .navigation .menu .features ul li, .header-container .navigation .menu .company ul li{
+        margin-bottom: 10px;
+    }
+
+    .header-container .navigation .login ul{
+        flex-direction: column;
+        align-items: center;
+        margin-top: 2rem;
+    }
+
+    .main-content{
+        flex-direction: column-reverse;
+        padding: 0;
+        gap: 0;
+        height: auto;
+    }
+
+    .main-content .info{
+        margin-top: 3rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main-content .images img{
+        width: 100%;
+        height: 100%;
+    }
+
+    .main-content .info h1{
+        font-size: 46px;
+        text-align: center;
+    }
+
+    .main-content .info p{
+        margin: 1rem auto 0;
+        text-align: center;
+    }
+
+    .main-content .info #btn{
+        margin-top: 2rem;
+    }
+
+    .main-content .info .others{
+        margin: 2rem 0 4rem;
+    }
+}
