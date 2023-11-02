@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro Section Dropdown Navigation
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Intro Section Dropdown Navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -28,11 +28,11 @@ The focus of the challenge was navigation on both desktop and mobile.
 
 # Desktop
 
-<img src="src/images/screenshot-desktop.png" alt="desktop">
+<img src="src/images/Screenshot-desktop.png" alt="desktop">
 
 # Mobile
 
-<img src="src/images/screenshot-mobile.png" alt="Mobile">
+<img src="src/images/Screenshot-mobile.png" alt="Mobile">
 
 ### Links
 
