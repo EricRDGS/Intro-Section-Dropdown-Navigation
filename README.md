@@ -28,11 +28,11 @@ The focus of the challenge was navigation on both desktop and mobile.
 
 # Desktop
 
-<img src="src/images/desktop.png" alt="desktop">
+<img src="src/images/screenshot-desktop.png" alt="desktop">
 
 # Mobile
 
-<img src="src/images/mobile.png" alt="Mobile">
+<img src="src/images/screenshot-mobile.png" alt="Mobile">
 
 ### Links
 
